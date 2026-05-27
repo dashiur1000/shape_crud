@@ -2,8 +2,11 @@ class Shape:
     """
     Saving variables for update
     """
-    def __init__(self, shape_id, shape_type):
-        self.shape_id = shape_id
+    _counter = 0
+
+    def __init__(self, shape_type):
+        Shape._counter += 1
+        self.shape_id = Shape._counter
         self.shape_type = shape_type
 
     def get_area(self):
