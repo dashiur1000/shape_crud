@@ -6,8 +6,8 @@ class Circle(Shape):
     Updating the constant variables
     and adding height and width parameters
     """
-    def __init__(self, radius):
-        super().__init__(shape_type="circle")
+    def __init__(self, radius, shape_id):
+        super().__init__(shape_type="circle", shape_id=shape_id)
         self.radius = radius
 
     def get_area(self):
@@ -33,10 +33,10 @@ b       by radius squared times pi
 
 
 def main():
-    if __name__ == "__main__":
-        b1 = Circle(4)
-        b1.get_area()
-        b1.get_perimeter()
-        print(b1.to_dict())
+    b1 = Circle(4,2)
+    b1.get_area()
+    b1.get_perimeter()
+    print(b1.to_dict())
 
-main()
+if __name__ == "__main__":
+    main()

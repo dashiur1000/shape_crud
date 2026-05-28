@@ -1,0 +1,447 @@
+2026-05-27 15:33:39,431 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:33:39,431 | INFO | __main__ | Loading the json file 
+2026-05-27 15:33:39,431 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:33:41,549 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:33:41,549 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:35:33,323 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:35:33,323 | INFO | __main__ | Loading the json file 
+2026-05-27 15:35:33,323 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:35:37,037 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:35:37,037 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:37:40,381 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:37:40,381 | INFO | __main__ | Loading the json file 
+2026-05-27 15:37:40,381 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:37:43,000 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:37:43,000 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:38:55,445 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:38:55,445 | INFO | __main__ | Loading the json file 
+2026-05-27 15:38:55,445 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:38:58,001 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:38:58,001 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:39:41,609 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:39:41,609 | INFO | __main__ | Loading the json file 
+2026-05-27 15:39:41,609 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:39:43,335 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:39:43,336 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:43:04,982 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:43:04,982 | INFO | __main__ | Loading the json file 
+2026-05-27 15:43:04,982 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:43:07,460 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:43:07,460 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:43:46,291 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:43:46,291 | INFO | __main__ | Loading the json file 
+2026-05-27 15:43:46,291 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:43:48,529 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:43:48,529 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:45:32,912 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:45:32,912 | INFO | __main__ | Loading the json file 
+2026-05-27 15:45:32,912 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:45:34,753 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:45:34,753 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:46:05,334 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:46:05,334 | INFO | __main__ | Loading the json file 
+2026-05-27 15:46:05,334 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:46:07,367 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:46:07,367 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:47:02,509 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:47:02,510 | INFO | __main__ | Loading the json file 
+2026-05-27 15:47:02,510 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:47:04,248 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:47:04,248 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:47:39,628 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:47:39,628 | INFO | __main__ | Loading the json file 
+2026-05-27 15:47:39,628 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:47:41,460 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:47:41,460 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:49:23,959 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:49:23,960 | INFO | __main__ | Loading the json file 
+2026-05-27 15:49:23,960 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:49:26,170 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:49:26,170 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:49:26,177 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:49:26,177 | INFO | __main__ | Loading the json file 
+2026-05-27 15:49:26,177 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:50:24,388 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:50:24,389 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:51:31,528 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:51:31,528 | INFO | __main__ | Loading the json file 
+2026-05-27 15:51:31,528 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:51:34,118 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:51:34,118 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:51:34,119 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:51:34,119 | INFO | __main__ | Loading the json file 
+2026-05-27 15:51:34,119 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:51:54,497 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:51:54,497 | INFO | __main__ | Loading the json file 
+2026-05-27 15:51:54,497 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:51:56,682 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:51:56,682 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:51:56,683 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:51:56,684 | INFO | __main__ | Loading the json file 
+2026-05-27 15:51:56,684 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:52:35,986 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:52:35,986 | INFO | __main__ | Loading the json file 
+2026-05-27 15:52:35,986 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:52:38,130 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:52:38,130 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:52:38,130 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:52:38,130 | INFO | __main__ | Loading the json file 
+2026-05-27 15:52:38,130 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:54:49,715 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:54:49,715 | INFO | __main__ | Loading the json file 
+2026-05-27 15:54:49,715 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:54:51,556 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:54:51,556 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:54:51,557 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:54:51,557 | INFO | __main__ | Loading the json file 
+2026-05-27 15:54:51,557 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:55:13,083 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:55:13,083 | INFO | __main__ | Loading the json file 
+2026-05-27 15:55:13,084 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:55:15,571 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:55:15,571 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:55:15,573 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:55:15,573 | INFO | __main__ | Loading the json file 
+2026-05-27 15:55:15,573 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:55:54,324 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:55:54,324 | INFO | __main__ | Loading the json file 
+2026-05-27 15:55:54,324 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:55:56,018 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:55:56,019 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:55:56,019 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:55:56,019 | INFO | __main__ | Loading the json file 
+2026-05-27 15:55:56,019 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:58:01,749 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:58:01,749 | INFO | __main__ | Loading the json file 
+2026-05-27 15:58:01,749 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 15:58:03,429 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 15:58:03,429 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 15:58:03,430 | INFO | __main__ | The program has been activated! 
+2026-05-27 15:58:03,430 | INFO | __main__ | Loading the json file 
+2026-05-27 15:58:03,430 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 17:08:52,517 | INFO | __main__ | The program has been activated! 
+2026-05-27 17:08:52,518 | INFO | __main__ | Loading the json file 
+2026-05-27 17:08:52,518 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 17:09:00,011 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 17:09:00,011 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 17:09:06,611 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 17:09:06,611 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 17:20:39,331 | INFO | __main__ | The program has been activated! 
+2026-05-27 17:20:39,331 | INFO | __main__ | Loading the json file 
+2026-05-27 17:20:39,331 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 17:20:43,212 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 17:20:43,212 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 17:20:51,943 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 17:20:51,943 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 17:29:24,761 | INFO | __main__ | The program has been activated! 
+2026-05-27 17:29:24,761 | INFO | __main__ | Loading the json file 
+2026-05-27 17:29:24,761 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 17:29:26,771 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 17:29:26,771 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 17:29:32,753 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 17:29:32,753 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 17:32:33,349 | INFO | __main__ | The program has been activated! 
+2026-05-27 17:32:33,349 | INFO | __main__ | Loading the json file 
+2026-05-27 17:32:33,349 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 17:32:37,117 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 17:32:37,117 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 17:35:14,525 | INFO | __main__ | The program has been activated! 
+2026-05-27 17:35:14,526 | INFO | __main__ | Loading the json file 
+2026-05-27 17:35:14,526 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 17:35:17,016 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 17:35:17,017 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 17:35:22,431 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 17:35:22,431 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:30:49,223 | INFO | __main__ | The program has been activated! 
+2026-05-27 18:30:49,223 | INFO | __main__ | Loading the json file 
+2026-05-27 18:30:49,223 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 18:30:53,508 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:30:53,508 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:31:00,613 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:31:00,614 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:31:15,156 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:31:15,156 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:31:47,451 | INFO | __main__ | The program has been activated! 
+2026-05-27 18:31:47,451 | INFO | __main__ | Loading the json file 
+2026-05-27 18:31:47,452 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 18:31:49,607 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:31:49,608 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:32:01,855 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:32:01,855 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:32:06,759 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:32:06,759 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:32:12,384 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:32:12,385 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:36:35,264 | INFO | __main__ | The program has been activated! 
+2026-05-27 18:36:35,264 | INFO | __main__ | Loading the json file 
+2026-05-27 18:36:35,264 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 18:36:38,537 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:36:38,537 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:36:42,599 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:36:42,599 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:36:52,320 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:36:52,321 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:36:56,836 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:36:56,837 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:37:26,112 | INFO | __main__ | The program has been activated! 
+2026-05-27 18:37:26,112 | INFO | __main__ | Loading the json file 
+2026-05-27 18:37:26,112 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 18:37:29,602 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:37:29,602 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:37:35,523 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:37:35,524 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:37:45,375 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:37:45,375 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:38:01,458 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:38:01,458 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:38:05,389 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:38:05,390 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:40:19,378 | INFO | __main__ | The program has been activated! 
+2026-05-27 18:40:19,378 | INFO | __main__ | Loading the json file 
+2026-05-27 18:40:19,378 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 18:40:25,186 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:40:25,187 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:40:26,475 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:40:26,476 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:41:29,197 | INFO | __main__ | The program has been activated! 
+2026-05-27 18:41:29,197 | INFO | __main__ | Loading the json file 
+2026-05-27 18:41:29,197 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 18:41:32,634 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:42:12,754 | INFO | __main__ | The program has been activated! 
+2026-05-27 18:42:12,754 | INFO | __main__ | Loading the json file 
+2026-05-27 18:42:12,754 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 18:42:16,074 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:44:57,880 | INFO | __main__ | The program has been activated! 
+2026-05-27 18:44:57,880 | INFO | __main__ | Loading the json file 
+2026-05-27 18:44:57,880 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 18:45:00,165 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:45:08,785 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:45:12,279 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:45:12,279 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:45:18,459 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:45:18,459 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:45:24,521 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:45:24,521 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 18:53:56,636 | INFO | __main__ | The program has been activated! 
+2026-05-27 18:53:56,636 | INFO | __main__ | Loading the json file 
+2026-05-27 18:53:56,636 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 18:53:59,570 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 18:53:59,570 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 19:02:11,210 | INFO | __main__ | The program has been activated! 
+2026-05-27 19:02:11,210 | INFO | __main__ | Loading the json file 
+2026-05-27 19:02:11,210 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 19:02:13,571 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 19:02:13,571 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 19:03:41,170 | INFO | __main__ | The program has been activated! 
+2026-05-27 19:03:41,170 | INFO | __main__ | Loading the json file 
+2026-05-27 19:03:41,171 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 19:03:45,452 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 19:03:45,452 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 19:03:51,542 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 19:03:51,542 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 19:03:57,642 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 19:03:57,643 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 19:04:05,224 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 19:04:05,224 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 19:04:13,976 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 19:04:13,976 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 19:08:01,325 | INFO | __main__ | The program has been activated! 
+2026-05-27 19:08:01,325 | INFO | __main__ | Loading the json file 
+2026-05-27 19:08:01,325 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 19:08:03,470 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 19:08:03,471 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 22:52:18,007 | INFO | __main__ | The program has been activated! 
+2026-05-27 22:52:18,007 | INFO | __main__ | Loading the json file 
+2026-05-27 22:52:18,008 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 22:52:34,752 | INFO | __main__ | The program has been activated! 
+2026-05-27 22:52:34,753 | INFO | __main__ | Loading the json file 
+2026-05-27 22:52:34,753 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 22:52:39,248 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 22:52:39,249 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 22:52:46,514 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 22:52:46,514 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 22:52:58,596 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 22:52:58,596 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 22:59:07,114 | INFO | __main__ | The program has been activated! 
+2026-05-27 22:59:07,114 | INFO | __main__ | Loading the json file 
+2026-05-27 22:59:07,114 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 22:59:08,930 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 22:59:08,931 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 22:59:11,144 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 22:59:11,144 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 22:59:21,755 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 22:59:21,755 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 22:59:57,888 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 22:59:57,888 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 22:59:59,792 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 22:59:59,792 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 23:00:08,211 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 23:00:08,211 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 23:00:15,779 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 23:00:15,779 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 23:00:28,380 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 23:00:28,380 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 23:00:36,437 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 23:00:36,437 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 23:03:14,496 | INFO | __main__ | The program has been activated! 
+2026-05-27 23:03:14,497 | INFO | __main__ | Loading the json file 
+2026-05-27 23:03:14,497 | INFO | __main__ | Displays a menu to the user 
+2026-05-27 23:03:16,938 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 23:03:16,938 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-27 23:03:24,354 | INFO | __main__ | Asks for a choice from the user 
+2026-05-27 23:03:24,354 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 19:01:18,700 | INFO | __main__ | The program has been activated! 
+2026-05-28 19:01:18,700 | INFO | __main__ | Loading the json file 
+2026-05-28 19:01:18,700 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 19:01:22,744 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 19:01:22,744 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 19:01:25,015 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 19:01:25,015 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 19:01:40,671 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 19:01:40,672 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 19:02:00,075 | INFO | __main__ | The program has been activated! 
+2026-05-28 19:02:00,076 | INFO | __main__ | Loading the json file 
+2026-05-28 19:02:00,076 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 19:03:26,584 | INFO | __main__ | The program has been activated! 
+2026-05-28 19:03:26,584 | INFO | __main__ | Loading the json file 
+2026-05-28 19:03:26,584 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 19:03:38,494 | INFO | __main__ | The program has been activated! 
+2026-05-28 19:03:38,495 | INFO | __main__ | Loading the json file 
+2026-05-28 19:03:38,495 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 19:04:53,364 | INFO | __main__ | The program has been activated! 
+2026-05-28 19:04:53,364 | INFO | __main__ | Loading the json file 
+2026-05-28 19:04:53,364 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 19:05:04,625 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 19:05:04,625 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 19:05:05,970 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 19:05:05,971 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 19:05:14,789 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 19:05:14,789 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 22:36:38,171 | INFO | __main__ | The program has been activated! 
+2026-05-28 22:36:38,172 | INFO | __main__ | Loading the json file 
+2026-05-28 22:36:38,172 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 22:36:40,751 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 22:36:40,751 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 22:40:37,023 | INFO | __main__ | The program has been activated! 
+2026-05-28 22:40:37,023 | INFO | __main__ | Loading the json file 
+2026-05-28 22:40:37,023 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 22:40:38,756 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 22:40:38,756 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 22:40:53,874 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 22:40:53,875 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 22:41:03,775 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 22:41:03,776 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:01:55,968 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:01:55,969 | INFO | __main__ | Loading the json file 
+2026-05-28 23:01:55,969 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:01:58,340 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:01:58,341 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:02:00,853 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:02:00,854 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:06:32,668 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:06:32,669 | INFO | __main__ | Loading the json file 
+2026-05-28 23:06:32,669 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:06:35,961 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:06:35,961 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:06:41,139 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:06:41,139 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:19:07,026 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:19:07,027 | INFO | __main__ | Loading the json file 
+2026-05-28 23:19:07,027 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:19:09,526 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:19:09,527 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:19:12,445 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:19:12,446 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:23:32,371 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:23:32,371 | INFO | __main__ | Loading the json file 
+2026-05-28 23:23:32,371 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:23:35,619 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:23:35,619 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:24:38,903 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:24:38,903 | INFO | __main__ | Loading the json file 
+2026-05-28 23:24:38,903 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:24:41,958 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:24:41,958 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:24:54,125 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:24:54,125 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:32:59,081 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:32:59,082 | INFO | __main__ | Loading the json file 
+2026-05-28 23:32:59,082 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:33:01,391 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:33:01,391 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:33:09,330 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:33:09,331 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:33:13,962 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:33:13,962 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:34:20,310 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:34:20,310 | INFO | __main__ | Loading the json file 
+2026-05-28 23:34:20,310 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:34:24,415 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:34:24,415 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:34:25,798 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:34:25,799 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:34:32,639 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:34:32,640 | INFO | __main__ | Loading the json file 
+2026-05-28 23:34:32,640 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:34:37,024 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:34:42,160 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:34:42,161 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:34:48,137 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:34:48,137 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:35:01,351 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:35:01,351 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:35:04,271 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:35:04,271 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:35:45,803 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:35:50,917 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:36:00,500 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:36:00,500 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:36:10,072 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:36:10,072 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:38:03,312 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:38:03,313 | INFO | __main__ | Loading the json file 
+2026-05-28 23:38:03,313 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:38:09,276 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:38:09,277 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:38:13,455 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:38:13,455 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:38:20,314 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:38:20,314 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:38:24,368 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:38:24,368 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:38:49,179 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:38:49,179 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:39:07,088 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:39:07,088 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:39:15,099 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:39:15,099 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:39:19,442 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:39:19,443 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:40:13,203 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:40:13,203 | INFO | __main__ | Loading the json file 
+2026-05-28 23:40:13,203 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:40:15,685 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:40:15,685 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:40:36,180 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:40:36,180 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:40:43,248 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:40:43,248 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:40:50,561 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:40:50,562 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:41:04,043 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:41:04,044 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:41:23,113 | INFO | __main__ | The program has been activated! 
+2026-05-28 23:41:23,113 | INFO | __main__ | Loading the json file 
+2026-05-28 23:41:23,113 | INFO | __main__ | Displays a menu to the user 
+2026-05-28 23:41:25,521 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:41:25,521 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:41:29,001 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:41:29,001 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:41:32,913 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:41:32,913 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:41:36,294 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:41:36,294 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:41:52,071 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:41:52,072 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-28 23:41:56,643 | INFO | __main__ | Asks for a choice from the user 
+2026-05-28 23:41:56,643 | DEBUG | __main__ | Checks the correctness of the selection 

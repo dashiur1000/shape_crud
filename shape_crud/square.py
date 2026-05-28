@@ -5,8 +5,8 @@ class Square(Shape):
     Updating the constant variables
     and adding a parameter of the side
     """
-    def __init__(self, side):
-        super().__init__(shape_type="square")
+    def __init__(self, side, shape_id):
+        super().__init__(shape_type="square", shape_id=shape_id)
         self.side = side
 
     def get_area(self):
@@ -31,11 +31,11 @@ class Square(Shape):
         return self.__dict__
 
 def main():
-    if __name__ == "__main__":
-        a1 = Square(5)
-        a1.get_area()
-        a1.get_perimeter()
-        print(a1.to_dict())
+    a1 = Square(5, 18)
+    a1.get_area()
+    a1.get_perimeter()
+    print(a1.to_dict())
 
-main()
+if __name__ == "__main__":
+    main()
 

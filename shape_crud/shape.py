@@ -4,9 +4,9 @@ class Shape:
     """
     _counter = 0
 
-    def __init__(self, shape_type):
+    def __init__(self, shape_type, shape_id):
         Shape._counter += 1
-        self.shape_id = Shape._counter
+        self.shape_id = shape_id
         self.shape_type = shape_type
 
     def get_area(self):
