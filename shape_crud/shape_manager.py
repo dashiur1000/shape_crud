@@ -103,9 +103,8 @@ class ShapeManager:
                 return []
 
 
-    def print_shapes(self, objects_list):
-        data = objects_list.to_dict()
-        print(str(data))
+    def print_shapes(self, shape_object):
+        print(f"id: {shape_object.shape_id}, type: {shape_object.shape_type}")
 
 
     def find_id(self, shape_id):
