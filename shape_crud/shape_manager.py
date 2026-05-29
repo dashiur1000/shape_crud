@@ -1,29 +1,34 @@
 import json
 from json import JSONDecodeError
 
-import shape
 from square import Square
 from circle import Circle
 from rectangle import Rectangle
 
 class ShapeManager:
+    """
+    Functions for handling shapes
+    and menu helper functions
+    """
     def __init__(self):
         self.shapes = self.load_from_json()
         self._update_next_id()
 
-        if self.shapes:
-            self.next_id = max(shape.shape_id for shape in self.shapes) + 1
-
 
     def _update_next_id(self):
+        """
+        Setting the ID number according to the number of shapes
+        """
         if self.shapes:
             self.next_id = max(s.shape_id for s in self.shapes) + 1
         else:
             self.next_id = 1
 
     def create_shape(self, shape_type, **kwargs):
+        """
+        Creating a shape with its special parameters
+        """
         current_id = self.next_id
-
         if shape_type == 1:
             my_shape = Square(side=kwargs["side"], shape_id=self.next_id)
         elif shape_type == 2:
@@ -40,6 +45,9 @@ class ShapeManager:
 
 
     def get_all_shapes(self):
+        """
+        View existing shapes
+        """
         data = []
         try:
             shapes_list = self.load_from_json()
@@ -52,7 +60,11 @@ class ShapeManager:
             with open("shapes.json", "w", encoding="utf-8") as f:
                 f.write("[]")
 
+
     def update_shape(self, shape_id, **kwargs):
+        """
+        Updating the size of shapes
+        """
         shape = self.find_id(shape_id)
         if shape:
             for key, value in kwargs.items():
@@ -69,6 +81,9 @@ class ShapeManager:
 
 
     def delete_shape(self, shape_id):
+        """
+        Delete a shape if it exists
+        """
         shape = self.find_id(shape_id)
         if shape:
             self.shapes.remove(shape)
@@ -78,12 +93,18 @@ class ShapeManager:
             print("not found!")
 
     def save_to_json(self, data):
+        """
+        Saves the shapes to the json file
+        """
         lst = [s.to_dict() for s in data]
         with open("shapes.json", "w", encoding="utf-8") as file:
             json.dump(lst, file)
 
 
     def load_from_json(self):
+        """
+        Loading the shapes from the json file
+        """
         try:
             with open("shapes.json", "r+", encoding="utf-8") as file:
                 data = json.load(file)
@@ -104,10 +125,15 @@ class ShapeManager:
 
 
     def print_shapes(self, shape_object):
+        """
+        Prints the existing shapes in the configuration.
+        """
         print(f"id: {shape_object.shape_id}, type: {shape_object.shape_type}")
 
-
     def find_id(self, shape_id):
+        """
+        Search for existing or non-existing shapes
+        """
         for i in self.shapes:
             if i.shape_id == int(shape_id):
                 return i
