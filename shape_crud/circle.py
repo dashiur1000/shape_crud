@@ -13,7 +13,7 @@ class Circle(Shape):
     def get_area(self):
         """
         Returns the area of a circle
-b       by radius squared times pi
+        by radius squared times pi
         """
         return (self.radius**2) * pi
 
@@ -36,7 +36,7 @@ def main():
     b1 = Circle(4,2)
     b1.get_area()
     b1.get_perimeter()
-    print(b1.to_dict())
+    b1.to_dict()
 
 if __name__ == "__main__":
     main()

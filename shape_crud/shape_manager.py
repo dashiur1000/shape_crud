@@ -44,7 +44,7 @@ class ShapeManager:
         try:
             shapes_list = self.load_from_json()
             if not shapes_list:
-                print("the file is empty")
+                print("==================\nthe file is empty\n==================\n")
             for form in shapes_list:
                 self.print_shapes(form)
 
