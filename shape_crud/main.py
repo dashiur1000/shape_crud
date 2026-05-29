@@ -171,6 +171,9 @@ def main():
                         if found:
                             manager.delete_shape(int(shape_id))
                             logger.info("The shape was deleted")
+                        else:
+                            logger.info("The shape does not exist at all")
+                            print("The shape does not exist at all.")
 
                 elif choice == "5":
                     logger.info("User exits the program")

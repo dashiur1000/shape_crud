@@ -11,3 +11,139 @@
 2026-05-29 11:39:13,407 | INFO | __main__ | Asks for a choice from the user 
 2026-05-29 11:39:13,408 | DEBUG | __main__ | Checks the correctness of the selection 
 2026-05-29 11:39:13,408 | INFO | __main__ | User exits the program 
+2026-05-29 15:23:46,563 | INFO | __main__ | The program has been activated! 
+2026-05-29 15:23:46,564 | INFO | __main__ | Loading the json file 
+2026-05-29 15:23:46,565 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:23:49,754 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:23:49,754 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:23:49,755 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:23:49,755 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:23:53,592 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:23:53,592 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:23:55,540 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:23:55,540 | INFO | __main__ | The shape does not exist at all 
+2026-05-29 15:23:55,540 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:24:28,806 | INFO | __main__ | The program has been activated! 
+2026-05-29 15:24:28,806 | INFO | __main__ | Loading the json file 
+2026-05-29 15:24:28,807 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:24:32,742 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:24:32,742 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:24:32,743 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:24:32,743 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:24:36,175 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:24:36,176 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:24:36,176 | INFO | __main__ | Asks the user for a shape selection 
+2026-05-29 15:24:37,632 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:24:40,524 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:24:40,526 | INFO | __main__ | User created a square 
+2026-05-29 15:24:40,526 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:24:46,456 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:24:46,456 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:24:52,699 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:24:52,700 | INFO | __main__ | The shape was deleted 
+2026-05-29 15:24:52,700 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:24:57,607 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:24:57,608 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:24:57,608 | INFO | __main__ | Asks the user for a shape selection 
+2026-05-29 15:24:59,471 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:25:01,530 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:25:03,753 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:25:03,755 | INFO | __main__ | User created a rectangle 
+2026-05-29 15:25:03,755 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:25:05,385 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:25:05,385 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:25:05,402 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:25:05,402 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:28:18,941 | INFO | __main__ | The program has been activated! 
+2026-05-29 15:28:18,941 | INFO | __main__ | Loading the json file 
+2026-05-29 15:28:18,942 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:28:22,001 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:28:22,001 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:28:22,002 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:28:22,002 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:28:29,566 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:28:29,566 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:28:37,044 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:28:37,047 | INFO | __main__ | The shape was deleted 
+2026-05-29 15:28:37,048 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:28:39,247 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:28:39,248 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:28:39,248 | INFO | __main__ | Asks the user for a shape selection 
+2026-05-29 15:28:40,698 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:28:41,845 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:28:41,847 | INFO | __main__ | User created a square 
+2026-05-29 15:28:41,847 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:28:45,290 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:28:45,291 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:28:45,310 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:28:45,310 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:28:54,691 | INFO | __main__ | The program has been activated! 
+2026-05-29 15:28:54,691 | INFO | __main__ | Loading the json file 
+2026-05-29 15:28:54,692 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:28:57,702 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:28:57,703 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:28:57,704 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:28:57,704 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:29:03,908 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:29:03,909 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:29:09,086 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:29:09,089 | INFO | __main__ | The shape was deleted 
+2026-05-29 15:29:09,089 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:29:10,248 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:29:10,249 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:29:10,249 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:29:10,250 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:29:12,788 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:29:12,789 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:29:12,789 | INFO | __main__ | Asks the user for a shape selection 
+2026-05-29 15:29:14,471 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:29:15,894 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:29:15,895 | INFO | __main__ | User created a square 
+2026-05-29 15:29:15,895 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:29:17,072 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:29:17,073 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:29:17,089 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:29:17,089 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:30:21,898 | INFO | __main__ | The program has been activated! 
+2026-05-29 15:30:21,898 | INFO | __main__ | Loading the json file 
+2026-05-29 15:30:21,899 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:30:23,598 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:30:23,599 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:23,600 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:30:23,600 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:30:27,654 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:30:27,654 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:27,654 | INFO | __main__ | Asks the user for a shape selection 
+2026-05-29 15:30:31,355 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:32,853 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:32,855 | INFO | __main__ | User created a circle 
+2026-05-29 15:30:32,855 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:30:34,088 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:30:34,088 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:34,143 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:30:34,143 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:30:39,029 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:30:39,029 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:40,241 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:40,244 | INFO | __main__ | The shape was deleted 
+2026-05-29 15:30:40,244 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:30:41,938 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:30:41,939 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:42,780 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:42,781 | INFO | __main__ | The shape was deleted 
+2026-05-29 15:30:42,782 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:30:44,203 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:30:44,203 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:44,204 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:30:44,204 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:30:46,149 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:30:46,149 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:46,149 | INFO | __main__ | Asks the user for a shape selection 
+2026-05-29 15:30:47,735 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:48,911 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:48,913 | INFO | __main__ | User created a square 
+2026-05-29 15:30:48,914 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 15:30:50,084 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 15:30:50,084 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 15:30:50,102 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 15:30:50,102 | INFO | __main__ | Displays a menu to the user 
