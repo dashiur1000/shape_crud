@@ -128,7 +128,20 @@ class ShapeManager:
         """
         Prints the existing shapes in the configuration.
         """
-        print(f"id: {shape_object.shape_id}, type: {shape_object.shape_type}")
+        print(f"id: {shape_object.shape_id}")
+        print(f"type: {shape_object.shape_type}")
+
+        if shape_object.shape_type == "square":
+            print(f"side: {shape_object.side}")
+        elif shape_object.shape_type == "circle":
+            print(f"radius: {shape_object.radius}")
+        elif shape_object.shape_type == "rectangle":
+            print(f"width: {shape_object.width}, height: {shape_object.height}")
+
+        print(f"area: {round(shape_object.get_area(), 4)}")
+        print(f"perimeter: {round(shape_object.get_perimeter(), 4)}")
+        print("======================")
+
 
     def find_id(self, shape_id):
         """

@@ -192,3 +192,53 @@
 2026-05-29 16:23:52,007 | DEBUG | __main__ | Checks the correctness of the selection 
 2026-05-29 16:23:52,017 | INFO | __main__ | Shows the user the shapes created - if any 
 2026-05-29 16:23:52,017 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:46:07,661 | INFO | __main__ | The program has been activated! 
+2026-05-29 16:46:07,661 | INFO | __main__ | Loading the json file 
+2026-05-29 16:46:07,662 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:46:10,453 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 16:46:10,454 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 16:46:54,139 | INFO | __main__ | The program has been activated! 
+2026-05-29 16:46:54,139 | INFO | __main__ | Loading the json file 
+2026-05-29 16:46:54,140 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:47:07,675 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 16:47:07,675 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 16:47:07,676 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 16:47:07,676 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:48:20,160 | INFO | __main__ | The program has been activated! 
+2026-05-29 16:48:20,160 | INFO | __main__ | Loading the json file 
+2026-05-29 16:48:20,160 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:48:21,977 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 16:48:21,978 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 16:48:21,979 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 16:48:21,979 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:48:54,196 | INFO | __main__ | The program has been activated! 
+2026-05-29 16:48:54,196 | INFO | __main__ | Loading the json file 
+2026-05-29 16:48:54,197 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:48:55,953 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 16:48:55,953 | ERROR | __main__ | User entered an invalid character. 
+2026-05-29 16:48:55,953 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:48:58,285 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 16:48:58,285 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 16:48:58,287 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 16:48:58,287 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:49:29,390 | INFO | __main__ | The program has been activated! 
+2026-05-29 16:49:29,390 | INFO | __main__ | Loading the json file 
+2026-05-29 16:49:29,390 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:49:31,002 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 16:49:31,002 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 16:49:31,003 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 16:49:31,003 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:50:25,893 | INFO | __main__ | The program has been activated! 
+2026-05-29 16:50:25,893 | INFO | __main__ | Loading the json file 
+2026-05-29 16:50:25,893 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:50:28,341 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 16:50:28,341 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 16:50:28,342 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 16:50:28,343 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:51:02,630 | INFO | __main__ | The program has been activated! 
+2026-05-29 16:51:02,630 | INFO | __main__ | Loading the json file 
+2026-05-29 16:51:02,631 | INFO | __main__ | Displays a menu to the user 
+2026-05-29 16:51:04,282 | INFO | __main__ | Asks for a choice from the user 
+2026-05-29 16:51:04,283 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-29 16:51:04,284 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-29 16:51:04,284 | INFO | __main__ | Displays a menu to the user 
