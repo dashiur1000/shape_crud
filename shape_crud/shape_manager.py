@@ -28,7 +28,7 @@ class ShapeManager:
         """
         Creating a shape with its special parameters
         """
-        current_id = self.next_id
+        # current_id = self.next_id
         if shape_type == 1:
             my_shape = Square(side=kwargs["side"], shape_id=self.next_id)
         elif shape_type == 2:
@@ -38,17 +38,17 @@ class ShapeManager:
         else:
             raise TypeError("Error! dont have shape type")
 
-        my_shape.shape_id = self.next_id
+        # my_shape.shape_id = self.next_id
         self.shapes.append(my_shape)
         self.save_to_json(self.shapes)
-        self.next_id += 1
+        # self.next_id += 1
 
 
     def get_all_shapes(self):
         """
         View existing shapes
         """
-        data = []
+        # data = []
         try:
             shapes_list = self.load_from_json()
             if not shapes_list:
