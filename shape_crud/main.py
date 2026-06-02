@@ -1,3 +1,6 @@
+# Link to GitHub
+# https://github.com/dashiur1000/shape_crud
+
 import logging
 from shape_manager import ShapeManager
 
@@ -126,7 +129,7 @@ def main():
                                 logger.info("User created a circle")
 
                 elif choice == "2":
-                    manager.get_all_shapes()
+                    print(manager.get_all_shapes()).__str__()
                     logger.info("Shows the user the shapes created - if any")
 
                 elif choice == "3":

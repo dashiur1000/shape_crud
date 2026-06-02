@@ -242,3 +242,91 @@
 2026-05-29 16:51:04,283 | DEBUG | __main__ | Checks the correctness of the selection 
 2026-05-29 16:51:04,284 | INFO | __main__ | Shows the user the shapes created - if any 
 2026-05-29 16:51:04,284 | INFO | __main__ | Displays a menu to the user 
+2026-05-31 07:23:53,957 | INFO | __main__ | The program has been activated! 
+2026-05-31 07:23:53,957 | INFO | __main__ | Loading the json file 
+2026-05-31 07:23:53,957 | INFO | __main__ | Displays a menu to the user 
+2026-05-31 07:23:59,722 | INFO | __main__ | Asks for a choice from the user 
+2026-05-31 07:23:59,722 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-31 07:23:59,723 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-31 07:23:59,723 | INFO | __main__ | Displays a menu to the user 
+2026-05-31 07:24:06,082 | INFO | __main__ | Asks for a choice from the user 
+2026-05-31 07:24:06,082 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-31 07:24:06,082 | INFO | __main__ | Asks the user for a shape selection 
+2026-05-31 07:24:11,419 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-31 07:24:15,528 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-31 07:24:15,531 | INFO | __main__ | User created a circle 
+2026-05-31 07:24:15,532 | INFO | __main__ | Displays a menu to the user 
+2026-05-31 07:24:17,413 | INFO | __main__ | Asks for a choice from the user 
+2026-05-31 07:24:17,413 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-05-31 07:24:17,424 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-05-31 07:24:17,424 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 14:52:24,933 | INFO | __main__ | The program has been activated! 
+2026-06-02 14:52:24,933 | INFO | __main__ | Loading the json file 
+2026-06-02 14:52:24,933 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 14:52:27,779 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 14:52:27,780 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:52:27,780 | INFO | __main__ | Asks the user for a shape selection 
+2026-06-02 14:52:30,826 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:52:32,496 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:53:01,212 | INFO | __main__ | The program has been activated! 
+2026-06-02 14:53:01,212 | INFO | __main__ | Loading the json file 
+2026-06-02 14:53:01,212 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 14:53:04,141 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 14:53:04,141 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:53:04,142 | INFO | __main__ | Asks the user for a shape selection 
+2026-06-02 14:53:05,032 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:53:06,352 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:58:46,548 | INFO | __main__ | The program has been activated! 
+2026-06-02 14:58:46,548 | INFO | __main__ | Loading the json file 
+2026-06-02 14:58:46,549 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 14:58:50,000 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 14:58:50,000 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:58:50,000 | INFO | __main__ | Asks the user for a shape selection 
+2026-06-02 14:58:51,176 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:58:52,842 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:58:53,781 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:58:53,783 | INFO | __main__ | User created a rectangle 
+2026-06-02 14:58:53,783 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 14:58:57,967 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 14:58:57,967 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:58:57,986 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-06-02 14:58:57,986 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 14:59:32,790 | INFO | __main__ | The program has been activated! 
+2026-06-02 14:59:32,790 | INFO | __main__ | Loading the json file 
+2026-06-02 14:59:32,790 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 14:59:34,762 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 14:59:34,762 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:59:34,763 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-06-02 14:59:34,763 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 14:59:48,140 | INFO | __main__ | The program has been activated! 
+2026-06-02 14:59:48,141 | INFO | __main__ | Loading the json file 
+2026-06-02 14:59:48,141 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 14:59:49,889 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 14:59:49,889 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 14:59:49,890 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-06-02 14:59:49,890 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 15:00:06,840 | INFO | __main__ | The program has been activated! 
+2026-06-02 15:00:06,840 | INFO | __main__ | Loading the json file 
+2026-06-02 15:00:06,840 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 15:00:08,499 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 15:00:08,500 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 15:00:08,501 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-06-02 15:00:08,501 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 15:00:38,511 | INFO | __main__ | The program has been activated! 
+2026-06-02 15:00:38,511 | INFO | __main__ | Loading the json file 
+2026-06-02 15:00:38,512 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 15:00:40,152 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 15:00:40,153 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 15:00:40,154 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-06-02 15:00:40,154 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 15:00:42,815 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 15:00:42,815 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 15:00:42,816 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-06-02 15:00:42,817 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 15:01:02,339 | INFO | __main__ | The program has been activated! 
+2026-06-02 15:01:02,339 | INFO | __main__ | Loading the json file 
+2026-06-02 15:01:02,340 | INFO | __main__ | Displays a menu to the user 
+2026-06-02 15:01:04,371 | INFO | __main__ | Asks for a choice from the user 
+2026-06-02 15:01:04,371 | DEBUG | __main__ | Checks the correctness of the selection 
+2026-06-02 15:01:04,372 | INFO | __main__ | Shows the user the shapes created - if any 
+2026-06-02 15:01:04,372 | INFO | __main__ | Displays a menu to the user 

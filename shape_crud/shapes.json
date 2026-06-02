@@ -1,1 +1,12 @@
-[{"shape_id": 1, "shape_type": "rectangle", "height": 6.5, "width": 3.6}, {"shape_id": 2, "shape_type": "circle", "radius": 22.3}]
+[
+    {
+        "shape_id": 1,
+        "shape_type": "square",
+        "side": 80
+    },
+    {
+        "shape_id": 2,
+        "shape_type": "circle",
+        "radius": 50
+    }
+]
