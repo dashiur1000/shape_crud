@@ -2,11 +2,11 @@
     {
         "shape_id": 1,
         "shape_type": "square",
-        "side": 80
+        "side": 30
     },
     {
         "shape_id": 2,
         "shape_type": "circle",
-        "radius": 50
+        "radius": 55
     }
 ]
