@@ -11,12 +11,21 @@ class ShapeManager:
         self._update_next_id()
 
     def _update_next_id(self):
+        """
+        Creates a new ID number
+        """
         if self.shapes:
             self.next_id = max(s.shape_id for s in self.shapes) + 1
         else:
             self.next_id = 1
 
     def create_shape(self, data):
+        """
+        Creates a form, updates an ID number,
+        and saves it to Jason.
+        :param data:
+        :return: to json
+        """
         shape_type = data.get("shape_type")
 
         if shape_type == "square":
@@ -33,10 +42,20 @@ class ShapeManager:
         self._update_next_id()
         return my_shape
 
+
     def get_all_shapes(self):
+        """
+        Returns all existing shapes
+        """
         return self.shapes
 
     def update_shape(self, shape_id, **kwargs):
+        """
+        Updates an existing shape with new values
+        :param shape_id:
+        :param kwargs:
+        :return: shape
+        """
         shape = self.find_id(shape_id)
         if shape:
             for key, value in kwargs.items():
@@ -47,6 +66,11 @@ class ShapeManager:
         return None
 
     def delete_shape(self, shape_id):
+        """
+        Deletes an existing shape
+        :param shape_id:
+        :return: True or False
+        """
         shape = self.find_id(shape_id)
         if shape:
             self.shapes.remove(shape)
@@ -55,6 +79,11 @@ class ShapeManager:
         return False
 
     def save_to_json(self, data):
+        """
+        Saves the shapes into Json
+        :param data:
+        :return: dict
+        """
         serialized_data = []
         for shape in data:
             if hasattr(shape, "to_dict"):
@@ -65,7 +94,13 @@ class ShapeManager:
         with open("shapes.json", "w", encoding="utf-8") as file:
             json.dump(serialized_data, file, ensure_ascii=False, indent=4)
 
+
     def load_from_json(self):
+        """
+        Uploads the shapes from the json
+        and saves them in a list
+        :return: objects_list
+        """
         try:
             with open("shapes.json", "r", encoding="utf-8") as file:
                 data = json.load(file)
@@ -84,13 +119,23 @@ class ShapeManager:
         except (json.JSONDecodeError, FileNotFoundError):
             return []
 
+
     def find_id(self, shape_id):
+        """
+        Searches by ID number and returns the form
+        :param shape_id:
+        :return: shape
+        """
         for i in self.shapes:
             if i.shape_id == int(shape_id):
                 return i
         return None
 
     def get_total_area(self):
+        """
+        Calculates the sum of the area of all shapes
+        :return: total
+        """
         total = 0
         for shape in self.shapes:
             total += shape.get_area()
