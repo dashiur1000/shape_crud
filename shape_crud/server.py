@@ -1,4 +1,5 @@
 import uvicorn
+import logging
 
 from new_shape_manager import ShapeManager
 from fastapi import FastAPI, HTTPException
@@ -6,6 +7,9 @@ from pydantic import BaseModel
 
 app = FastAPI()
 manager = ShapeManager()
+
+logger = logging.getLogger(__name__)
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 
 
 class ShapeInit(BaseModel):
@@ -23,7 +27,9 @@ def all_shapes_area():
     :return:
     area
     """
+    logger.info("Started calculating area of all shapes")
     area = manager.get_total_area()
+    logger.info("Calculate all the areas of all the shapes together.")
     return area
 
 
@@ -34,9 +40,12 @@ def return_shape(id: int):
     :param id:
     :return: shape
     """
+    logger.info("Search by ID")
     find = manager.find_id(id)
     if find is None:
+        logger.error("The ID does not exist.")
         raise HTTPException(status_code=404, detail="not found")
+    logger.info("Displays the specific shape")
     return find.to_dict()
 
 
@@ -47,9 +56,12 @@ def update_shape(id: int, body: dict):
     :param id:
     :param body:
     """
+    logger.info("Activates the shape update function")
     update_shape = manager.update_shape(id, **body)
     if update_shape is None:
+        logger.error("The shape does not exist.")
         raise HTTPException(status_code=404, detail="404")
+    logger.info("The shape has been updated with the updated parameters.")
     return update_shape.to_dict()
 
 
