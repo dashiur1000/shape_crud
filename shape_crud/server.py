@@ -9,7 +9,11 @@ app = FastAPI()
 manager = ShapeManager()
 
 logger = logging.getLogger(__name__)
-logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+logger.setLevel(logging.INFO)
+handler = logging.FileHandler(r"C:\Users\dzs10\Desktop\IDF\project_3_shape\shape_crud\logs_file.log", mode="a")
+formatter = logging.Formatter("%(asctime)s | %(levelname)s | %(message)s")
+handler.setFormatter(formatter)
+logger.addHandler(handler)
 
 
 class ShapeInit(BaseModel):
@@ -72,9 +76,12 @@ def delete_shape(id: int):
     :param id:
     :return: "shape delete"
     """
+    logger.info("Activates the shape delete function")
     delete_shape = manager.delete_shape(id)
     if delete_shape is False:
+        logger.error("The shape does not exist.")
         raise HTTPException(status_code=404, detail="404 - Not found")
+    logger.info("The shape has been deleted.")
     return "shape delete"
 
 
@@ -84,10 +91,12 @@ def return_all_shapes():
     Displays all existing shapes
     :return: objects_dict
     """
+    logger.info("Activates the shape return shapes function")
     objects = manager.get_all_shapes()
     objects_dict = []
     for obj in objects:
         objects_dict.append(obj.to_dict())
+    logger.info("All shapes are displayed.")
     return objects_dict
 
 
@@ -98,7 +107,9 @@ def add_shape(data: dict):
     :param data:
     :return: into the json file
     """
+    logger.info("Activates the shape add shapes function")
     objects = manager.create_shape(data)
+    logger.info("The new form has been inserted and updated.")
     return objects.to_dict()
 
 
