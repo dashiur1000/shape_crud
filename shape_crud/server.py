@@ -2,22 +2,37 @@ import uvicorn
 
 from new_shape_manager import ShapeManager
 from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
 
 app = FastAPI()
 manager = ShapeManager()
+
+
+class ShapeInit(BaseModel):
+    shape_type: str
+    side: float
+    radius: float
+    height: float
+    width: float
+
+
+@app.get("/shapes/total-area")
+def all_shapes_area():
+    area = manager.get_total_area()
+    return area
 
 
 @app.get("/shapes/{id}")
 def return_shape(id: int):
     find = manager.find_id(id)
     if find is None:
-        raise HTTPException(status_code=404, detail="404")
+        raise HTTPException(status_code=404, detail="not found")
     return find.to_dict()
 
 
 @app.put("/shapes/{id}")
-def update_shape(id: int, data: dict):
-    update_shape = manager.update_shape(id, **data)
+def update_shape(id: int, body: dict):
+    update_shape = manager.update_shape(id, **body)
     if update_shape is None:
         raise HTTPException(status_code=404, detail="404")
     return update_shape.to_dict()
@@ -27,9 +42,8 @@ def update_shape(id: int, data: dict):
 def delete_shape(id: int):
     delete_shape = manager.delete_shape(id)
     if delete_shape is False:
-        raise HTTPException(status_code=404, detail="404")
+        raise HTTPException(status_code=404, detail="404 - Not found")
     return "shape delete"
-
 
 
 @app.get("/shapes")
@@ -45,6 +59,8 @@ def return_all_shapes():
 def add_shape(data: dict):
     objects = manager.create_shape(data)
     return objects.to_dict()
+
+
 
 
 

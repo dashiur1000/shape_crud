@@ -79,8 +79,7 @@ class ShapeManager:
                         my_object = Circle(radius=item["radius"], shape_id=item["shape_id"])
                     else:
                         continue
-                    objects_list.append(
-                        my_object)
+                    objects_list.append(my_object)
                 return objects_list
         except (json.JSONDecodeError, FileNotFoundError):
             return []
@@ -94,8 +93,5 @@ class ShapeManager:
     def get_total_area(self):
         total = 0
         for shape in self.shapes:
-            if hasattr(shape, "area"):
-                total += shape.area()
-            elif hasattr(shape, "get_area"):
-                total += shape.get_area()
+            total += shape.get_area()
         return total

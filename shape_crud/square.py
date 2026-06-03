@@ -28,7 +28,11 @@ class Square(Shape):
         A function that adds the results to a ready dictionary
         for future insertion into the json file
         """
-        return self.__dict__
+        return {"shape_id": self.shape_id,
+            "shape_type": self.shape_type,
+            "side": self.side,
+            "area": self.get_area(),
+            "perimeter": self.get_perimeter()}
 
 def main():
     a1 = Square(5, 18)

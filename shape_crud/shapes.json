@@ -2,11 +2,15 @@
     {
         "shape_id": 1,
         "shape_type": "square",
-        "side": 30
+        "side": 30,
+        "area": 900,
+        "perimeter": 120
     },
     {
-        "shape_id": 2,
-        "shape_type": "circle",
-        "radius": 55
+        "shape_id": 3,
+        "shape_type": "square",
+        "side": 70,
+        "area": 4900,
+        "perimeter": 280
     }
 ]
